@@ -16,5 +16,5 @@ spec:
         app: tomcat
     spec:
       containers:
-      - image: public.ecr.aws/l3u9b3v6/mindtree:latest
+      - image: public.ecr.aws/l3u9b3v6/mindtree
         name: mindtree
